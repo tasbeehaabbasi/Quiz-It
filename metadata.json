@@ -1,0 +1,6 @@
+{
+  "name": "QuizIt",
+  "description": "Turn your notes into instant mastery. Generate practice quizzes from your study notes in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
