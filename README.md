@@ -1,1 +1,1 @@
-
+QuizIt turns your notes into instant quizzes using the Gemini API. Choose MCQ, True/False, or Short Answer, pick difficulty and question count, and test yourself right away. Built with Kotlin, Firebase Auth, and Google AI Studio. Tracks your quiz history so you can see your progress over time and study smarter.
